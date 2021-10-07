@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SubvertDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Lubyanoy Ilya! 👋
 
-<!---
-SubvertDev/SubvertDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🍎 I do iOS development in my free time
+- 👨‍💻 I’m currently working on my pet project [OGame](https://github.com/SubvertDev/OGame-iOS-Unofficial)
+- 📫 You can reach me on [Telegram](https://t.me/SubvertDev) or my [email](**mailto:****subvert.dev@gmail.com**)
