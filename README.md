@@ -1,4 +1,4 @@
-### Hi there, I'm Lubyanoy Ilya! 👋
+### Hi there, I'm Ilya! 👋
 
 - 🍎 I do iOS development in my free time
 - 👨‍💻 I’m currently working on my pet project [OGame](https://github.com/SubvertDev/OGame-iOS-Unofficial)
